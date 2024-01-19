@@ -1,0 +1,57 @@
+body {
+    background: #135209;
+    color: #545454;
+    
+}
+header {
+    background-color: brown;
+}
+section {
+    background-color: chocolate;
+    width: 85%;
+    height: 100px;
+    margin: 5%;
+    
+}
+nav {
+    background-color: firebrick;
+    padding: 1px 0px;
+}
+nav ul li{
+    margin: 5%;
+    display: block;
+    padding: 3%; 
+}
+nav ul li a {
+    text-decoration: none;
+    background-color: aliceblue;
+    margin-top: 20px;
+    padding: 10px;
+    resize: none;
+  }
+footer {
+    background-color: darkgray;
+}
+aside{
+    background-color: deeppink;
+    width: 85%;
+    height: 120px;
+    margin: 5%; 
+    display: block;
+    float: right;
+}
+#main{
+    background-color: darkslateblue;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+	width: 90%;  
+}
+#center {
+    color: #fff176;
+    height: 600px;
+    border: 5px solid rgb(28, 9, 9);
+    display: block;
+    float: center;   
+}
